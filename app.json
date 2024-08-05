@@ -8,6 +8,18 @@
       "expo-router"
     ],
     "name": "react_native_job",
-    "slug": "react_native_job"
+    "slug": "react_native_job",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "df54b662-f56c-4ca2-9a0d-73f462af387c"
+      }
+    },
+    "owner": "andu_1",
+    "android": {
+      "package": "com.andu_1.react_native_job"
+    }
   }
 }
